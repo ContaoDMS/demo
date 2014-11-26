@@ -2,16 +2,14 @@
 [![Installations via composer per month](http://img.shields.io/packagist/dm/contao-dms/demo.svg?style=flat)](https://packagist.org/packages/contao-dms/demo)
 [![Installations via composer total](http://img.shields.io/packagist/dt/contao-dms/demo.svg?style=flat)](https://packagist.org/packages/contao-dms/demo)
 
-Contao Extension: DocumentManagementSystemFileTypeSets
-======================================================
+ContaoDMS - Demo
+================
 
 Provides an example website for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 
 Installation
 ------------
-
-The extension is not published in contao extension repository.
 
 Install it via composer: [contao-dms/demo](https://packagist.org/packages/contao-dms/demo).
 
