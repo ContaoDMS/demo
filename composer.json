@@ -1,0 +1,36 @@
+{
+	"name":"contao-dms/demo",
+	"description":"Provides a demo for the document management system.",
+	"keywords":["contao", "dms", "document", "management", "demo"],
+	"type":"contao-module",
+	"license":"LGPL-3.0+",
+	"authors":[
+		{
+			"name":"Cliff Parnitzky",
+			"email":"contao@cliff-parnitzky.de",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"email":"contao@cliff-parnitzky.de",
+		"issues":"https://github.com/ContaoDMS/demo/issues",
+		"source":"https://github.com/ContaoDMS/demo"
+	},
+	"require":{
+		"php":">=5.3",
+		"contao/core":">=2.11.0,<4.0.0-dev",
+		"contao-community-alliance/composer-installer":"*",
+		"contao-dms/dms":">=3.0.0",
+		"contao-dms/file-type-sets":"*"
+	},
+	"extra":{
+		"contao":{
+			"sources":{
+				"src/templates/contao-dms-demo.sql": "templates/contao-dms-demo.sql"
+			}
+		},
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+}
