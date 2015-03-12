@@ -7,11 +7,13 @@ ContaoDMS - Demo
 
 Provides an example website for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
+Currently under construction :construction:.
+
 
 Installation
 ------------
 
-Install it via composer: [contao-dms/demo](https://packagist.org/packages/contao-dms/demo).
+Install the extension via composer: [contao-dms/demo](https://packagist.org/packages/contao-dms/demo).
 
 
 Tracker
@@ -23,11 +25,11 @@ https://github.com/ContaoDMS/demo/issues
 Compatibility
 -------------
 
-- min. version: Contao 3.0.0
-- max. version: Contao 3.4.x
+- min. Contao version: >= 3.2.0
+- max. Contao version: <  3.5.0
 
 
 Dependency
 ----------
 
-- There are no dependencies to other extensions, that have to be installed.
+- This extension is dependent on the following extensions: [[contao-dms/bundle-all]](https://packagist.org/packages/contao-dms/bundle-all)
