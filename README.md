@@ -34,4 +34,4 @@ Dependency
 
 This extension is dependent on the following extensions:
 
-- [[contao-dms/bundle-all]](https://packagist.org/packages/contao-dms/bundle-all)
+- [[contao-dms/bundle-all]](https://packagist.org/packages/contao-dms/bundle-all) 
